@@ -1,0 +1,35 @@
+.titulo-principal{padding-left: 30px;}
+
+#banner{width: 100%;}           /* El # es para identificar los id que hayan en html*/
+
+.principal{
+    background: #cccccc;
+    padding: 20px;
+}
+
+.titulo-centralizado{text-align: center;}
+
+p{
+    text-align: center;
+    background: #cccccc;
+}
+
+em strong{color: red;}
+
+#mision{font-size: 20px;}
+
+.diferenciales{
+    background: #FFFFFF;
+    padding: 30px;
+}
+
+.items{font-style: italic;}     /* El . es para identificar las class que hayan en el html */
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15px;
+}
+
+.imagenDiferenciales{width: 50%;}
